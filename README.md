@@ -1,5 +1,8 @@
 ## Game Architecture for Card AI (Part 1)
-This is a companion notebook for the blog post on [Game Architecture for AI (Part 1)](http://bennycheung.github.io/game-architecture-card-ai-1).
+This is a companion notebook for the blog post on
+* [Game Architecture for AI (Part 1)](http://bennycheung.github.io/game-architecture-card-ai-1).
+* [Game Architecture for AI (Part 2)](http://bennycheung.github.io/game-architecture-card-ai-2).
+* [Game Architecture for AI (Part 3)](http://bennycheung.github.io/game-architecture-card-ai-3).
 
 ### Race for the Galaxy
 * <a name="Jones09">[[Jones09]](https://boardgamegeek.com/thread/438698/article/3878167?fbclid=IwAR1KXYI1li66vhPBPwzwNfr8Tvg2Giz5zN5eXpVaugtCQe8DLUbILjzBMUE#3878167)</a> Keldon Jones, Talk a bit about how the AI works, Sep 2009
