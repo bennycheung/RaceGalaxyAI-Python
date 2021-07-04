@@ -66,3 +66,23 @@ Inside Visual Studio code, install the Microsoft's "Jupyter" extension. When act
 
 ![Running VSCode Jupyter Notebook](images/RFTG_VScode_Jupyter_Notebook-annotated.png)
 
+## Installation for AI Notebook
+
+The following Python modules are required to run this AI notebook `rftg_ai.ipynb`.
+
+```
+pip install keras==2.4.3
+pip install tensorflow==2.5.0
+pip install pydot
+```
+
+In addition, we need to define the `.keras/keras.json` to use the tensorflow backend.
+
+```json
+ {
+  "image_data_format": "channels_last",
+  "epsilon": 1e-07,
+  "floatx": "float32",
+  "backend": "tensorflow"
+}
+```
