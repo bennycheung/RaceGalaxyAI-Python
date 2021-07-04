@@ -1,4 +1,5 @@
-## Game Architecture for Card AI (Part 1)
+## Game Architecture for Card Game Series
+
 This is a companion notebook for the blog post on
 * [Game Architecture for Card Game Model (Part 1)](http://bennycheung.github.io/game-architecture-card-ai-1)
 * [Game Architecture for Card Game Action (Part 2)](http://bennycheung.github.io/game-architecture-card-ai-2)
