@@ -12,7 +12,7 @@ This is a companion notebook for the blog post on
 * <a name="TempleGates17">[[TemplateGates17]](https://www.templegatesgames.com/race-for-the-galaxy-ai/)</a> Race for the Galaxy AI, Temple Gates, Dec 2017
   * Temple Gates is the game developer for the App version that using Keldon Jone's AI engine
 
-> We did not include the card images due to the legal distribution's restriction. You can download directly from Keldon Jones's original source distribution to find `images.data` file.
+> We did not include the card images due to the legal distribution's restriction. You can download directly from Keldon Jones's original source distribution to find `images.data` file.  We also included a set of "proxy" card images in `card_images` folder.
 
 ### LEGAL
 Rio Grande Games holds the copyrights for the images. Permission to distribute the card and goal images has been granted by Rio Grande Games. The image files may not be unpacked or redistributed without this notice, or used for any other purpose.
